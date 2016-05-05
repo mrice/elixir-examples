@@ -10,7 +10,7 @@ Basics
 ---
 * Outset and obligatory [hello, world](https://github.com/mrice/elixir-examples/tree/master/basics/1-hello-world)
 
-* //TODO - fun with functions (topic 3)
+* [Functions examples]((https://github.com/mrice/elixir-examples/tree/master/basics/2-functions) **with a lot to do to do Elixir justice on this front**
 
 * [Recursion example](https://github.com/mrice/elixir-examples/tree/master/basics/3-recursion)
 

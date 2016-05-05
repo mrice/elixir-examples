@@ -10,6 +10,13 @@ Basics
 ---
 * Outset and obligatory [hello, world](https://github.com/mrice/elixir-examples/tree/master/basics/1-hello-world)
 
-* Quick demo of [reading and writing to the console]((https://github.com/mrice/elixir-examples/tree/master/basics/2-read-write-console)
+* //TODO - fun with functions (topic 3)
 
-* A simple REST client using [httpoison](https://github.com/edgurgel/httpoison) and [poison](https://github.com/devinus/poison) [here]((https://github.com/mrice/elixir-examples/tree/master/basics/3-rest-client)
+* [Recursion example](https://github.com/mrice/elixir-examples/tree/master/basics/3-recursion)
+
+I/O
+---
+
+* Quick demo of [reading and writing to the console]((https://github.com/mrice/elixir-examples/tree/master/io/1-read-write-console)
+
+* A simple REST client using [httpoison](https://github.com/edgurgel/httpoison) and [poison](https://github.com/devinus/poison) [here]((https://github.com/mrice/elixir-examples/tree/master/io/2-rest-client)

@@ -17,6 +17,6 @@ Basics
 I/O
 ---
 
-* Quick demo of [reading and writing to the console]((https://github.com/mrice/elixir-examples/tree/master/io/1-read-write-console)
+* Quick demo of [reading and writing to the console](https://github.com/mrice/elixir-examples/tree/master/io/1-read-write-console)
 
-* A simple REST client using [httpoison](https://github.com/edgurgel/httpoison) and [poison](https://github.com/devinus/poison) [here]((https://github.com/mrice/elixir-examples/tree/master/io/2-rest-client)
+* A simple REST client using [httpoison](https://github.com/edgurgel/httpoison) and [poison](https://github.com/devinus/poison) [here](https://github.com/mrice/elixir-examples/tree/master/io/2-rest-client)

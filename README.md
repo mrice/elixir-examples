@@ -18,6 +18,8 @@ Basics
 
 * [Pipelining](https://github.com/mrice/elixir-examples/tree/master/basics/4-pipelining)
 
+* [Lists and maps](https://github.com/mrice/elixir-examples/tree/master/basics/5-lists-and-maps)
+
 I/O
 ---
 

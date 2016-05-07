@@ -3,21 +3,21 @@
 
 
 defmodule Pipeline do
-  
-  def process_data do
-    value = add_one
+
+  def process_data(original) do
+    add_one original
       |> add_two
       |> add_three
-  end 
-  
-  defp add_one do
-    1
   end
-  
+
+  defp add_one(original) do
+    original + 1
+  end
+
   defp add_two(original) do
     original + 2
   end
-  
+
   defp add_three(original) do
     original + 3
   end

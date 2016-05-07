@@ -16,6 +16,8 @@ Basics
 
 * [Recursion example](https://github.com/mrice/elixir-examples/tree/master/basics/3-recursion)
 
+* [Pipelining](https://github.com/mrice/elixir-examples/tree/master/basics/4-pipelining)
+
 I/O
 ---
 

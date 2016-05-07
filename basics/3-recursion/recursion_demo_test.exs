@@ -10,7 +10,7 @@ defmodule CountdownTest do
     test "countdown and blastoff after 10" do
       assert capture_io(fn ->
         Countdown.countdown(10)
-      end) == "10\n9\n8\n7\n6\n5\n4\n3\n2\n1\nblastoff\n" # looks kinda weird, run it in iex to see
+      end) == "t-minus 10\nt-minus 9\nt-minus 8\nt-minus 7\nt-minus 6\nt-minus 5\nt-minus 4\nt-minus 3\nt-minus 2\nt-minus 1\nblastoff\n" # looks kinda weird, run it in iex to see
     end
 
 end

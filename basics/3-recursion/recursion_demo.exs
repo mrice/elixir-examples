@@ -2,7 +2,7 @@
 defmodule Countdown do
 
   def countdown(from) when from > 0 do
-    IO.puts(from)
+    IO.puts("t-minus #{from}")
     countdown(from-1)
   end
 

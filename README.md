@@ -27,7 +27,7 @@ I/O
 Upgrading to Elixir 1.2+
 ===
 
-There are two parts to installing Elixir 1.2: installing Erlang 18+ and then getting Elixir 1.2 installed. When I originally wrote these examples I was using a Fedora 23 machine and the ```dnf``` packaging tool would only let me install Erlang 17 and Elixir 1.0-something. The Fedora 23 folks apparently (thought Erlang 18x wasn't ready for prime time)[https://lists.fedoraproject.org/pipermail/devel/2015-September/215140.html]. Hopefully this issue will be moot on later versions of Fedora. Here's how to know what version you're running
+There are two parts to installing Elixir 1.2: installing Erlang 18+ and then getting Elixir 1.2 installed. When I originally wrote these examples I was using a Fedora 23 machine and the ```dnf``` packaging tool would only let me install Erlang 17 and Elixir 1.0-something. The Fedora 23 folks apparently [thought Erlang 18x wasn't ready for prime time](https://lists.fedoraproject.org/pipermail/devel/2015-September/215140.html). Hopefully this issue will be moot on later versions of Fedora. Here's how to know what version you're running
 
 ```
 erl --version
@@ -94,7 +94,7 @@ source ~/.kerl/installations/erlang_18_2/activate
 These steps came straight from Verbose Guides, *Installing Erlang using kerl* [here](http://verboseguides.com/2016/01/26/installing-erlang-using-kerl/). (By the way, the guide has information for you OS X folks too.)
 
 
-First, Elixir 1.2+
+Now, Elixir 1.2+
 ---
 This step is a little easier if you simply download the binaries from the Elixir site (again, the ```dnf``` tool only supports Elixir 1.0x on Fedora 23).
 
